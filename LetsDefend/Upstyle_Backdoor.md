@@ -1,7 +1,7 @@
 # LetsDefend Walkthrough: Upstyle Backdoor Challenge
 ***https://medium.com/@anshumansingh_71873/letsdefend-walkthrough-8cd8afd615d2***
 
-![image](https://github.com/user-attachments/assets/885a6f32-b897-45ab-b8a5-b6970a8d2d0c)
+![Upstyle-badge](https://github.com/user-attachments/assets/ccf3b309-0aa1-47a4-8097-a722dba240c4)
 
 ## Challenge Overview
 ***https://app.letsdefend.io/challenge/kernel-exploit***
@@ -95,3 +95,5 @@ img\[([a-zA-Z0-9+/=]+)\]
 ```bash
 /var/log/pan/sslvpn_ngx_error.log
 ```
+
+![image](https://github.com/user-attachments/assets/885a6f32-b897-45ab-b8a5-b6970a8d2d0c)

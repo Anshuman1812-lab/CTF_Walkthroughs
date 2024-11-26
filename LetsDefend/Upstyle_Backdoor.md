@@ -12,6 +12,8 @@
 
 ***File Password:** infected*
 
+***Note:** To avoid potential malware infections on your machine, please use a hypervisor (virtual machine) when downloading and analyzing files.*
+
 ## Solution
 1. **Extracting the File**
 The first step is to extract the provided ZIP file using the password `infected`. Once extracted, you should have a Python script ready for analysis.

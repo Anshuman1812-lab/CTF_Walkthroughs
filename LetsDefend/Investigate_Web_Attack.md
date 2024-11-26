@@ -10,6 +10,8 @@
 
 ***Challenge File:** /root/Desktop/ChallengeFile/access.log*
 
+***Note:** To avoid potential malware infections on your machine, please use a hypervisor (virtual machine) when downloading and analyzing files.*
+
 ## Solution
 A preliminary analysis of the log file identified quite a few clues about potential malicious activity:
 

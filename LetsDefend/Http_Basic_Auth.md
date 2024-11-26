@@ -5,9 +5,14 @@
 
 ## Challenge Overview
 ***https://app.letsdefend.io/challenge/http-basic-auth***
+
 ***Scenario:** We receive a log indicating a possible attack, can you gather information from the .pcap file?*
+
 ***Log file:** /root/Desktop/ChallengeFile/webserver.em0.pcap*
-*Note: pcap file found public resources.*
+
+***Note:** pcap file found public resources.*
+
+***Note:** To avoid potential malware infections on your machine, please use a hypervisor (virtual machine) when downloading and analyzing files.*
 
 ## Solution
 ***Question - How many HTTP GET requests are in pcap?***

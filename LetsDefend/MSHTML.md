@@ -10,10 +10,10 @@
 
 ***Challenge Files:***
 
-*/root/Desktop/ChallengeFile/Employee_W2_Form.docx*  
-*/root/Desktop/ChallengeFile/Employees_Contact_Audit_Oct_2021.docx*  
-*/root/Desktop/ChallengeFile/Work_From_Home_Survey.doc*  
-*/root/Desktop/ChallengeFile/income_tax_and_benefit_return_2021.docx*
+- */root/Desktop/ChallengeFile/Employee_W2_Form.docx*  
+- */root/Desktop/ChallengeFile/Employees_Contact_Audit_Oct_2021.docx*  
+- */root/Desktop/ChallengeFile/Work_From_Home_Survey.doc*  
+- */root/Desktop/ChallengeFile/income_tax_and_benefit_return_2021.docx*
 
 ***Note:** To avoid potential malware infections on your machine, please use a hypervisor (virtual machine) when downloading and analyzing files.*
 
